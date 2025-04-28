@@ -27,7 +27,7 @@ Basic hosting or XAMPP/LAMP/WAMP
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/core-php-ticket-system.git
+git clone https://github.com/Shilpi-dev/ticket_system.git
 cd core-php-ticket-system
 Or just download the .zip and extract.
 
